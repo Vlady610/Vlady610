@@ -7,4 +7,3 @@
 
 > "El único error real es no intentarlo."
 
-![Presentación](https://i.imgur.com/6T2m5cF.png)
